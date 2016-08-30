@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{5C80D3EF-5123-4117-9003-FA49FF86C9FF}</ProjectGuid>
-    <RootNamespace>functions</RootNamespace>
+    <ProjectGuid>{A580FDFF-BCEC-4F7E-AD8C-44A00DAA8DC3}</ProjectGuid>
+    <RootNamespace>structexcersices</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
